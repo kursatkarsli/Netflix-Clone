@@ -1,1 +1,3 @@
-Netflix Tmdb Apı key : b11507aaad12bbda2ea351028e9dfd65
+For Demo : 
+
+https://netflix-clone-a2ac3.web.app/
